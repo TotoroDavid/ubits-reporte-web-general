@@ -11,6 +11,7 @@ Antes de generar un nuevo reporte, por favor consulta nuestra estructura oficial
 * [[Plantilla Reporte GA4 y GTM]](estructura_de_reportes/Plantilla-Reporte-GA4-GTM.md) - Guía visual y ejecutiva para presentar resultados de Analytics y estado técnico de GTM.
 
 ### 📈 Reportes Mensuales y Auditorías
+* 🌟 **[[Reporte Ejecutivo Final - Abril 2026]](reportes_mensuales/2026-04-22-Reporte-Ejecutivo-Final.md) - Resumen gerencial listo para presentar a Project Managers (GA4 + GSC + Tracking).**
 * [[Rendimiento UBITS GA4 + GSC - Abril 2026]](reportes_mensuales/2026-04-Rendimiento-GA4-GSC.md) - Datos y análisis de tráfico y conversiones.
 * [[Auditoría de Tracking y SEO Crítico - Abril 2026]](reportes_mensuales/2026-04-22-Auditoria-Tracking-GTM-SEO.md) - Hallazgos urgentes de GTM, HubSpot, errores 404 e Indexación.
 * [[Deep Dive: Google Search Console - Abril 2026]](reportes_mensuales/2026-04-22-Deep-Dive-SEO-GSC.md) - Top queries, CTR por país y oportunidades de tráfico orgánico no-brand.
